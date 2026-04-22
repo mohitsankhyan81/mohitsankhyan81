@@ -1,10 +1,15 @@
-# <span style="background: linear-gradient(135deg, #00FFCC, #FF00FF); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 2.5rem;">Mohit Sankhyan</span>
+# Mohit Sankhyan
 
 **`Full‑Stack Developer | MERN | AI/ML`**  
 *he/him*
 
 <div align="center">
+  <!-- OPTION 1: Upload "download (19).jpg" to your GitHub repo (same folder as README) and use: -->
   <img src="download (19).jpg" alt="Mohit Sankhyan" width="200" style="border-radius: 50%; border: 3px solid #00FFCC;" />
+  
+  <!-- OPTION 2: Or use any direct image URL (replace the line above with this):
+  <img src="https://your-image-url.com/photo.jpg" alt="Mohit Sankhyan" width="200" style="border-radius: 50%; border: 3px solid #00FFCC;" />
+  -->
 </div>
 
 <div align="center">
@@ -13,7 +18,7 @@
 
 ---
 
-## <span style="color:#FFB347;">📌 Professional Summary</span>
+## 📌 Professional Summary
 
 Self‑driven developer with a focus on building real‑world applications.  
 Strong foundation in **MERN stack**, **DSA (C++)**, and currently expanding into **AI/ML** with Python.  
@@ -21,7 +26,7 @@ Aim to deliver **clean**, **scalable**, and **secure** code.
 
 ---
 
-## <span style="color:#FFB347;">🛠️ Technical Arsenal</span>
+## 🛠️ Technical Arsenal
 
 | Frontend          | Backend           | Database                 | Tools & DevOps      |
 |-------------------|-------------------|--------------------------|---------------------|
@@ -47,7 +52,7 @@ Aim to deliver **clean**, **scalable**, and **secure** code.
 
 ---
 
-## <span style="color:#FFB347;">📊 GitHub Performance</span>
+## 📊 GitHub Performance
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitsankhyan81&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFB347&icon_color=00FFCC&text_color=FFFFFF&count_private=true" width="48%" />
@@ -58,7 +63,7 @@ Aim to deliver **clean**, **scalable**, and **secure** code.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsankhyan81&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFB347&text_color=FFFFFF" width="60%" />
 </div>
 
-### <span style="color:#00FFCC;">📅 Annual Activity</span>
+### 📅 Annual Activity
 - **Commits (last year):** `3+`  
 - **Pull Requests:** `6`  
 - **Issues opened:** `4`  
@@ -66,7 +71,7 @@ Aim to deliver **clean**, **scalable**, and **secure** code.
 
 ---
 
-## <span style="color:#FFB347;">🚀 Key Projects</span>
+## 🚀 Key Projects
 
 | Project | Tech Stack | Live |
 |---------|------------|------|
@@ -78,15 +83,15 @@ Aim to deliver **clean**, **scalable**, and **secure** code.
 
 ---
 
-## <span style="color:#FFB347;">🏆 Achievements & Recognition</span>
+## 🏆 Achievements & Recognition
 
-<span style="background: linear-gradient(135deg, #FFD700, #FFA500); padding: 0.2rem 1rem; border-radius: 20px; color: #000; font-weight: bold;">⭐ Developer Program Member</span>  
-<span style="background: linear-gradient(135deg, #00FFCC, #0099FF); padding: 0.2rem 1rem; border-radius: 20px; color: #000; font-weight: bold;">⚡ GitHub Pro</span>  
-<span style="background: linear-gradient(135deg, #FF69B4, #FF1493); padding: 0.2rem 1rem; border-radius: 20px; color: #fff; font-weight: bold;">🌍 Active Open‑Source Contributor</span>
+- ⭐ **Developer Program Member**  
+- ⚡ **GitHub Pro**  
+- 🌍 **Active Open‑Source Contributor**
 
 ---
 
-## <span style="color:#FFB347;">🌐 Connect</span>
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsankhyan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohit__sankhyan)
@@ -97,7 +102,7 @@ Aim to deliver **clean**, **scalable**, and **secure** code.
 
 ---
 
-## <span style="color:#FFB347;">🗺️ Roadmap</span>
+## 🗺️ Roadmap
 
 - **Currently:** Mastering MERN, DSA (C++), AI/ML fundamentals  
 - **Next:** AI‑powered automation tools, full‑stack SaaS products  
@@ -106,5 +111,5 @@ Aim to deliver **clean**, **scalable**, and **secure** code.
 ---
 
 <div align="center">
-  <span style="background: linear-gradient(135deg, #00FFCC, #FF00FF); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 1.2rem; font-weight: bold;">“Write code that matters. Build systems that last.”</span>
+  <i>“Write code that matters. Build systems that last.”</i>
 </div>
