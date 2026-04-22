@@ -4,7 +4,7 @@
 *he/him*
 
 <div align="center">
-  <img src="C:\Users\Mohit Sankhyan\Downloads\download (19).jpg" alt="Mohit Sankhyan" width="200" style="border-radius: 50%; border: 3px solid #00FFCC;" />
+  <img src="download (19).jpg" alt="Mohit Sankhyan" width="200" style="border-radius: 50%; border: 3px solid #00FFCC;" />
 </div>
 
 <div align="center">
