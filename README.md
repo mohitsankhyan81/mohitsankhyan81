@@ -4,8 +4,7 @@
 *he/him*
 
 <div align="center">
-  <!-- Replace this URL with your actual image (profile pic or banner) -->
-  <img src="https://your-image-url-here.jpg" alt="Mohit Sankhyan" width="200" style="border-radius: 50%; border: 3px solid #00FFCC;" />
+  <img src="C:\Users\Mohit Sankhyan\Downloads\download (19).jpg" alt="Mohit Sankhyan" width="200" style="border-radius: 50%; border: 3px solid #00FFCC;" />
 </div>
 
 <div align="center">
