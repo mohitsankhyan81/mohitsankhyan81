@@ -5,8 +5,7 @@
 
 <div align="center">
   <!-- OPTION 1: Upload "download (19).jpg" to your GitHub repo (same folder as README) and use: -->
-  <img src="download (19).jpg" alt="Mohit Sankhyan" width="200" style="border-radius: 50%; border: 3px solid #00FFCC;" />
-  
+<img src="https://github.com/mohitsankhyan81.png" alt="Mohit Sankhyan" width="200" style="border-radius: 50%; border: 3px solid #00FFCC;" />  
   <!-- OPTION 2: Or use any direct image URL (replace the line above with this):
   <img src="https://your-image-url.com/photo.jpg" alt="Mohit Sankhyan" width="200" style="border-radius: 50%; border: 3px solid #00FFCC;" />
   -->
