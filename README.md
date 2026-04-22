@@ -59,7 +59,7 @@ Aim to deliver clean, scalable, and secure code.
 | Project | Tech Stack | Live |
 |---------|------------|------|
 | **Shoe Filter E‑commerce UI** | HTML, CSS, JS | [🔗 Demo](https://mohitsankhyan81.github.io/Filter-data-ecom-shoe-web) |
-| **University Sports System** | MERN | [🔗 Live](https://sprots-system.vercel.app) |
+| **University Sports System** | MERN | [🔗 Live](https://sports-system.vercel.app) |
 | **Daily Blog Upload** | React, Node, MongoDB | *Coming soon* |
 | **Email Verification System** | Node.js, JWT, Nodemailer, MongoDB | Private repo |
 | **DSA Practice (C++)** | Data Structures & Algorithms | 20+ problems solved |
