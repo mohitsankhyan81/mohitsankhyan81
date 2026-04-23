@@ -78,7 +78,7 @@ Aim to deliver **clean**, **scalable**, and **secure** code.
 | **🏫 University Sports System** | MERN | [🔗 Live](https://sports-system.vercel.app) |
 | **📝 Daily Blog Upload** | React, Node, MongoDB | *Coming soon* |
 | **🔐 Email Verification System** | Node.js, JWT, Nodemailer, MongoDB | Private repo |
-| **🧠 DSA Practice (C++)** | Data Structures & Algorithms | `20+ problems solved` |
+| **🧠 DSA Practice (C++)** | Data Structures & Algorithms | `120+ problems solved` |
 
 ---
 
